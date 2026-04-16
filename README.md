@@ -1,15 +1,8 @@
 <div align="center">
 
-```
- ██╗  ██╗ █████╗ ██╗     ██████╗
- ██║ ██╔╝██╔══██╗██║     ██╔══██╗
- █████╔╝ ███████║██║     ██████╔╝
- ██╔═██╗ ██╔══██║██║     ██╔═══╝
- ██║  ██╗██║  ██║███████╗██║
- ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Kalp%20Modi&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20%C2%B7%20Bug%20Bounty%20Hunter%20%C2%B7%20Builder&descAlignY=60&descAlign=50)
 
-**Security Researcher · Bug Bounty Hunter · Builder**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Offensive+security+researcher;Bug+bounty+hunter+%F0%9F%90%9B;Built+Akira+-+AI+Pentest+Co-Pilot;CVE+researcher)](https://github.com/Kalp1774/akira)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kalpmodi)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/kalp1774)
@@ -28,7 +21,7 @@ $ cat /etc/kalp/profile
 
   Role     : Offensive security researcher & bug bounty hunter
   Focus    : Web app pentesting, cloud misconfigs, OAuth/JWT, race conditions
-  Building : Akira — the AI pentest co-pilot that actually finds bugs
+  Building : Akira - the AI pentest co-pilot that actually finds bugs
   Based    : India
   CVEs     : Strapi SSRF bypass + MIME fail-open (filed 2026)
   Bounties : HackerOne, Bugcrowd, private programs
@@ -102,6 +95,8 @@ $ cat /etc/kalp/profile
 ---
 
 <div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer)
 
 *Building tools that find real bugs. If Akira helped you, [star it](https://github.com/Kalp1774/akira) or [buy me a coffee](https://buymeacoffee.com/kalpmodi).*
 
