@@ -128,7 +128,6 @@
 <text x="22" y="290" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  role     : Offensive Security Researcher · Bug Bounty Hunter</text>
 <text x="22" y="309" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  location : India</text>
 <text x="22" y="328" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  focus    : Web · Cloud · OAuth/JWT · Race Conditions</text>
-<text x="22" y="347" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  cve      : Strapi SSRF Bypass + MIME Fail-Open  [ 2026 ]</text>
 <text x="22" y="366" font-family="'Courier New', Courier, monospace" font-size="13" fill="#007722">──────────────────────────────────────────────────────────</text>
 <text x="22" y="404" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00FF41" filter="url(#glow2)" opacity="0.95">┌──(kalpmodi㉿kali)-[~]</text>
 <text x="22" y="423" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ffffff">└─$ ls -la ~/projects/</text>
