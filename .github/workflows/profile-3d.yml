@@ -5,7 +5,7 @@ on:
     - cron: "0 1 * * *"   # daily at 01:00 UTC
   workflow_dispatch:
   push:
-    branches: [main, readme-preview]
+    branches: [main]
 
 permissions:
   contents: write
