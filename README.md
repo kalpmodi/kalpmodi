@@ -71,13 +71,14 @@ AWS-Certified-Security-Specialty    The-Zero-Click-Marketplace.pdf
 
 ---
 
+<h3 align="center">System</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalpmodi&show_icons=true&hide_border=true&count_private=true&title_color=3B82F6&icon_color=3B82F6&text_color=D2D2DA&bg_color=0A0A0B" height="165"/>
+  <img src="./info-card.svg" width="480" alt="neofetch info card"/>
 </p>
 
-
-<h3 align="center">Activity</h3>
+<h3 align="center">Contributions</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kalpmodi/kalpmodi/output/snake.svg" alt="contribution snake" width="900"/>
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="820" alt="3D contribution calendar"/>
 </p>
