@@ -23,22 +23,14 @@
 
 ---
 
-```console
-[root@security ~]$ whoami
-
-Security engineer. I break controls, then design ones that hold.
-
-[root@security ~]$ cat focus.txt
-
-- Cloud security posture and IAM (AWS)
-- Detection engineering and SIEM
-- Security governance and compliance-as-code
-- Offensive testing to validate the controls I design
-
-[root@security ~]$ ls credentials/
-
-AWS-Certified-Security-Specialty    The-Zero-Click-Marketplace.pdf
-```
+<div align="center">
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="380" alt="ASCII portrait"/></td>
+<td valign="top"><img src="./info-card.svg" width="480" alt="neofetch info card"/></td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -64,18 +56,7 @@ AWS-Certified-Security-Specialty    The-Zero-Click-Marketplace.pdf
 | [**akira-lite**](https://github.com/kalpmodi/akira-lite) | One skill for developers: security-review your own code before you push. Diff-aware, false-positive filtered, prioritized fixes. |
 | [**EvilTwin-with-ESP32**](https://github.com/kalpmodi/EvilTwin-with-ESP32) | Hardware Wi-Fi spoofing simulation on ESP32 with LED display. Built for ethical-hacking demos and awareness. |
 
-<h3 align="center">Proof</h3>
-
-- Preprint: [*The Zero-Click Marketplace*](https://doi.org/10.33774/coe-2025-1wmxr) - Cambridge Open Engage, Dec 2025
-- [AWS Certified Security - Specialty](https://www.credly.com/badges/2e6cc740-7642-4972-8dae-e6b77822c365/public_url) - 2026
-
 ---
-
-<h3 align="center">System</h3>
-
-<p align="center">
-  <img src="./info-card.svg" width="480" alt="neofetch info card"/>
-</p>
 
 <h3 align="center">Contributions</h3>
 
