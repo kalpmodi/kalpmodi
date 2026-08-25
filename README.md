@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&weight=500&pause=1600&color=3B82F6&center=true&vCenter=true&width=720&lines=You+cannot+defend+a+square+you+have+never+tried+to+take." alt="tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&weight=500&pause=1600&color=3B82F6&center=true&vCenter=true&width=900&lines=You+cannot+defend+a+square+you+have+never+tried+to+take." alt="tagline"/>
 </h3>
 
 <p align="center">
