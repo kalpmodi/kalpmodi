@@ -37,7 +37,7 @@ Security engineer. I break controls, then design ones that hold.
 
 [root@security ~]$ ls credentials/
 
-AWS-Certified-Security-Specialty    The-Zero-Click-Marketplace.pdf    DRDO-1st-rank
+AWS-Certified-Security-Specialty    The-Zero-Click-Marketplace.pdf
 ```
 
 ---
@@ -68,17 +68,10 @@ AWS-Certified-Security-Specialty    The-Zero-Click-Marketplace.pdf    DRDO-1st-r
 
 - Preprint: [*The Zero-Click Marketplace*](https://doi.org/10.33774/coe-2025-1wmxr) - Cambridge Open Engage, Dec 2025
 - [AWS Certified Security - Specialty](https://www.credly.com/badges/2e6cc740-7642-4972-8dae-e6b77822c365/public_url) - 2026
-- 1st rank, DRDO evaluation round, Nov 2025
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kalpmodi&show_icons=true&hide_border=true&count_private=true&title_color=3B82F6&icon_color=3B82F6&text_color=D2D2DA&bg_color=0A0A0B" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=kalpmodi&hide_border=true&background=0A0A0B&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=D2D2DA&dates=8B8B94&currStreakNum=D2D2DA&sideNums=D2D2DA" height="165"/>
 </p>
 
-<h3 align="center">Activity</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalpmodi&bg_color=0A0A0B&color=D2D2DA&line=3B82F6&point=3B82F6&area=true&hide_border=true" width="900"/>
-</p>
