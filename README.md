@@ -34,20 +34,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud_Security-3B82F6?style=flat-square&labelColor=0A0A0B"/>
-  <img src="https://img.shields.io/badge/IAM-0A0A0B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Detection_Engineering-3B82F6?style=flat-square&labelColor=0A0A0B"/>
-  <img src="https://img.shields.io/badge/SIEM-0A0A0B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Security_Governance-3B82F6?style=flat-square&labelColor=0A0A0B"/>
-  <img src="https://img.shields.io/badge/Compliance_as_Code-0A0A0B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Threat_Modeling-3B82F6?style=flat-square&labelColor=0A0A0B"/>
-  <img src="https://img.shields.io/badge/Penetration_Testing-0A0A0B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AWS-0A0A0B?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
-</p>
-
----
-
 <h3 align="center">Work</h3>
 
 <p align="center">
