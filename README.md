@@ -50,11 +50,13 @@
 
 <h3 align="center">Work</h3>
 
-| Project | What it is |
-|---|---|
-| [**akira**](https://github.com/kalpmodi/akira) | Autonomous offensive security agent. Plans engagements, runs recon, chains exploits, writes reports end to end. Native to Claude Code, Gemini CLI, Codex, Cursor. Not a scanner wrapper. |
-| [**akira-lite**](https://github.com/kalpmodi/akira-lite) | One skill for developers: security-review your own code before you push. Diff-aware, false-positive filtered, prioritized fixes. |
-| [**EvilTwin-with-ESP32**](https://github.com/kalpmodi/EvilTwin-with-ESP32) | Hardware Wi-Fi spoofing simulation on ESP32 with LED display. Built for ethical-hacking demos and awareness. |
+<p align="center">
+  <a href="https://github.com/kalpmodi/akira"><img src="./profile/pin-akira.svg" width="400" alt="akira"/></a>
+  <a href="https://github.com/kalpmodi/akira-lite"><img src="./profile/pin-akira-lite.svg" width="400" alt="akira-lite"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/kalpmodi/EvilTwin-with-ESP32"><img src="./profile/pin-eviltwin.svg" width="400" alt="EvilTwin-with-ESP32"/></a>
+</p>
 
 ---
 

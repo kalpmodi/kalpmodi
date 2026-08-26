@@ -1,0 +1,45 @@
+name: Generate Repo Cards
+
+on:
+  schedule:
+    - cron: "30 1 * * *"   # daily at 01:30 UTC
+  workflow_dispatch:
+  push:
+    branches: [main, readme-cards]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: akira
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=akira&title_color=3B82F6&text_color=c9d1d9&icon_color=3B82F6&bg_color=0A0A0B&border_color=30363d
+          path: profile/pin-akira.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: akira-lite
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=akira-lite&title_color=3B82F6&text_color=c9d1d9&icon_color=3B82F6&bg_color=0A0A0B&border_color=30363d
+          path: profile/pin-akira-lite.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: eviltwin
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=EvilTwin-with-ESP32&title_color=3B82F6&text_color=c9d1d9&icon_color=3B82F6&bg_color=0A0A0B&border_color=30363d
+          path: profile/pin-eviltwin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update repo cards" || exit 0
+          git push
